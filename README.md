@@ -2,9 +2,9 @@
 
 Grupo:
 
-Edson Maciel - 1801987 -
-Fernanda Stella
-Ewerton Araújo 
-Kalil
-Marcelo
-Victor
+Edison Maciel - 1802049
+Fernanda - 1800671
+Ewerton -1800229
+Kalil - 1701888
+Marcelo - 1800525
+Victor - 1800547
